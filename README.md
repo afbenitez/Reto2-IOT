@@ -15,4 +15,4 @@ Integrantes
 - Proyecto en cupcarbon: 'Reto2.cup'
   
 ## Despliegue
-
+- Cargar el proyecto en la plataforma de cupcarbon y ejecutarlo.
